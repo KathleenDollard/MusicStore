@@ -1,3 +1,7 @@
+## I forked this repo to use as a reference in workshops. It is not useful to you. 
+
+If I finish a conversion of MusicStore to core, it will have an obvious name. 
+
 MusicStore (test application)
 =============================
 
